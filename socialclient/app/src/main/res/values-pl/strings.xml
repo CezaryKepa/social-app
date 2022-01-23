@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">social-client</string>
+    <string name="add_post">Dodaj post</string>
+    <string name="post_content_edit_text">Zawartość</string>
+    <string name="post_title_edit_text">Tytuł</string>
+    <string name="fab_description">Dodaj post</string>
+    <string name="done_button_text">Utwórz post</string>
+    <string name="delete_post">Usuń post</string>
+    <string name="confirm_delete">Czy na pewno chcesz usunąć post?</string>
+    <string name="yes">tak</string>
+    <string name="no">nie</string>
+    <string name="like_post">Polub post</string>
+    <string name="edit_post">Edytuj post</string>
+    <string name="edit_button_text">Edytuj post</string>
+    <string name="confirm_edit">Czy na pewno chcesz dokonać edycji tego postu?</string>
+</resources>

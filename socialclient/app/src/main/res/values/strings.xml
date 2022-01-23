@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">social-client</string>
+    <string name="add_post">Add Post</string>
+    <string name="post_content_edit_text">Post content</string>
+    <string name="post_title_edit_text">Post Title</string>
+    <string name="fab_description">Add post</string>
+    <string name="done_button_text">Create post</string>
+    <string name="delete_post">Delete post</string>
+    <string name="confirm_delete">Are you sure you want to delete post?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="like_post">Like post</string>
+    <string name="edit_post">Edit post</string>
+    <string name="edit_button_text">Edit post</string>
+    <string name="confirm_edit">Are you sure you want to edit post with shown data?</string>
+
+</resources>
